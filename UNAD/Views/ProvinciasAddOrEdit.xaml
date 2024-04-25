@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UNAD.Views.ProvinciasAddOrEdit"
+             Title="ProvinciasAddOrEdit">
+    <Border Margin="20">
+            <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="CenterAndExpand">
+
+        <Entry x:Name="txtProvincia" Placeholder="Cual es el nombre de la provincia?" Keyboard="Default" Margin="10"/>
+        <Entry x:Name="txtPaisID" Placeholder="Cual es el codigo del pais?" Keyboard="Default" Margin="10"/>
+
+        <Button Margin="20" ImageSource="light_check" Clicked="Button_Clicked"/>
+
+    </VerticalStackLayout>
+        </ScrollView>
+    </Border>
+</ContentPage>

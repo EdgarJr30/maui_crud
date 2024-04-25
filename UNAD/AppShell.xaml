@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="UNAD.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:UNAD"
+    Shell.FlyoutBehavior="Flyout">
+
+    <ShellContent
+        Title="Listado de Paises"
+        ContentTemplate="{DataTemplate local:ListadoPaises}"
+        Route="Paises" />
+    <ShellContent
+        Title="Listado de Provincias"
+        ContentTemplate="{DataTemplate local:ListadoProvincias}"
+        Route="Provincias" />
+    <ShellContent
+        Title="Listado de Ciudades"
+        ContentTemplate="{DataTemplate local:ListadoCiudades}"
+        Route="Ciudades" />
+
+</Shell>
+

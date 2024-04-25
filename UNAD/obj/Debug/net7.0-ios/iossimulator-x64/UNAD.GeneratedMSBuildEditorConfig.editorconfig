@@ -1,0 +1,77 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UNAD
+build_property.ProjectDir = C:\Users\epere\Desktop\code\UNAD\UNAD\UNAD\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/epere/Desktop/code/UNAD/UNAD/UNAD/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UNAD.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/epere/Desktop/code/UNAD/UNAD/UNAD/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UNAD.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/epere/Desktop/code/UNAD/UNAD/UNAD/ListadoCiudades.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UNAD.ListadoCiudades.xaml
+build_metadata.AdditionalFiles.TargetPath = ListadoCiudades.xaml
+build_metadata.AdditionalFiles.RelativePath = ListadoCiudades.xaml
+
+[C:/Users/epere/Desktop/code/UNAD/UNAD/UNAD/ListadoPaises.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UNAD.ListadoPaises.xaml
+build_metadata.AdditionalFiles.TargetPath = ListadoPaises.xaml
+build_metadata.AdditionalFiles.RelativePath = ListadoPaises.xaml
+
+[C:/Users/epere/Desktop/code/UNAD/UNAD/UNAD/ListadoProvincias.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UNAD.ListadoProvincias.xaml
+build_metadata.AdditionalFiles.TargetPath = ListadoProvincias.xaml
+build_metadata.AdditionalFiles.RelativePath = ListadoProvincias.xaml
+
+[C:/Users/epere/Desktop/code/UNAD/UNAD/UNAD/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UNAD.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/epere/Desktop/code/UNAD/UNAD/UNAD/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UNAD.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/epere/Desktop/code/UNAD/UNAD/UNAD/Views/CiudadesAddOrEdit.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UNAD.Views.CiudadesAddOrEdit.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CiudadesAddOrEdit.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CiudadesAddOrEdit.xaml
+
+[C:/Users/epere/Desktop/code/UNAD/UNAD/UNAD/Views/PaisesAddOrEdit.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UNAD.Views.PaisesAddOrEdit.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\PaisesAddOrEdit.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\PaisesAddOrEdit.xaml
+
+[C:/Users/epere/Desktop/code/UNAD/UNAD/UNAD/Views/ProvinciasAddOrEdit.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UNAD.Views.ProvinciasAddOrEdit.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ProvinciasAddOrEdit.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ProvinciasAddOrEdit.xaml
